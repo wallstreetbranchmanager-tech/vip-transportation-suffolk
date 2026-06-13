@@ -1,2 +1,1 @@
-# vip-transportation-suffolk
-VIP Transportation of Suffolk County - Bob's free landing page upgrade by Apex Executive Studio
+VIP Transportation of Suffolk County - Bob's free upgrade landing page for truck debt. Built by Apex Executive Studio.
