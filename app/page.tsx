@@ -28,7 +28,7 @@ export default function SuffolkVIPLanding() {
 
       <section className="py-20 bg-zinc-900 px-6">
         <div className="max-w-4xl mx-auto">
-          <h3 className="text-4xl font-bold text-center mb-12">Live Booking (What Bob&apos;s Clients Get Now)</h3>
+          <h3 className="text-4xl font-bold text-center mb-12">Live Booking (What Bob's Clients Get Now)</h3>
           <div className="bg-zinc-950 p-10 rounded-3xl grid md:grid-cols-2 gap-8">
             <input 
               type="text" 
@@ -64,7 +64,7 @@ export default function SuffolkVIPLanding() {
         </div>
       </section>
 
-      <footer className="p-12 text-center text-zinc-500 border-t border-zinc-800">Free for Bob Rudofsky (truck debt cleared) • Built by Apex Executive Studio • Paul&apos;s Horny Empire Grind • Vercel Deploy • Khanit &amp; Kao Fuel</footer>
+      <footer className="p-12 text-center text-zinc-500 border-t border-zinc-800">Free for Bob Rudofsky (truck debt cleared) • Built by Apex Executive Studio • Paul's Horny Empire Grind • Vercel Deploy • Khanit & Kao Fuel</footer>
     </div>
   );
 }
